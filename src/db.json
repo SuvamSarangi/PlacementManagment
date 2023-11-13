@@ -1,0 +1,37 @@
+{
+ "student":
+ [
+ {
+    
+    "firstName":"happy",
+    "lastName":"Dash",
+    "address":"Jajpur",
+    "gender":"male",
+    "age":"24",
+    "dob":"21/06/2000",
+    "branch":"M-Tech",
+    "phoneNo":"7008519377",
+    "email":"happy@gmail.com",
+    "password":"7008",
+    "role":"Admin"
+
+},
+
+{
+    
+    "firstName":"subham",
+    "lastName":"Dash",
+    "address":"Jajpur",
+    "gender":"male",
+    "age":"24",
+    "dob":"21/06/2000",
+    "branch":"M-Tech",
+    "phoneNo":"7008519377",
+    "email":"subham@gmail.com",
+    "password":"subham",
+    "role":"User"
+
+}
+]
+}
+
